@@ -113,7 +113,7 @@
     }
     .policy__list {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
     }
     .policy__item {
         width: 48%;
